@@ -15,7 +15,7 @@ To run the code and use the trained model, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/Phishing-Website-Detection.git
+   git clone https://github.com/ishan-1010/Phishing-Website-Detection.git
    ```
 
 2. Install the required Python libraries:
